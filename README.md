@@ -7,12 +7,12 @@
 - In in the main you can also find a file sample.json which containted the data for this assignment to pull from
 - In 'Starter_Code' you can find the blank unedited starter files
 - In 'Refrences' you can find the two repositories I refrenced for this assignment
-	I got some major help to getting started from AshelynAllred whose repo is saved in 	refrences/AshelynAllred
+	I got some major help to getting started from AshelynAllred whose repo is saved in refrences/AshelynAllred
 
 ## Sources
 - As started above I got a lot of help from AshelynAllred to get off the ground since I was totally lost for a while there. https://github.com/AshelynAllred/belly-button-challenge	
 - I also used this documentation to help write the gauge chart. https://plotly.com/javascript/gauge-charts/
-- I also used this to help find color scales for the bubble chart
+- I also used this to help find color scales for the bubble chart. https://plotly.com/javascript/colorscales/
 
 ## Instructions
 
