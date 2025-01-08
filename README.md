@@ -1,6 +1,5 @@
 # belly-button-challenge
 
-<<<<<<< HEAD
 ## **File Locations**
 - **`Images/`**: Contains screenshots and visual assets used in this project and README.
 - **`References/`**: Includes links or files from repositories referenced during the assignment.
@@ -14,21 +13,6 @@
 * Header image: NA
 * Repos used as reference: 
   * https://github.com/AshelynAllred/belly-button-challenge
-=======
-## File Location
-- In Images you can find some instructional images I used in the readme
-- In static you can find the java script file app.js where most of the work on this assignment was done
-- In the main you can find the html file 'index' which was mostly unedited all I did was add some lines to make the background of the site not bright white
-- In in the main you can also find a file sample.json which containted the data for this assignment to pull from
-- In 'Starter_Code' you can find the blank unedited starter files
-- In 'Refrences' you can find the two repositories I refrenced for this assignment
-	I got some major help to getting started from AshelynAllred whose repo is saved in refrences/AshelynAllred
-
-## Sources
-- As started above I got a lot of help from AshelynAllred to get off the ground since I was totally lost for a while there. https://github.com/AshelynAllred/belly-button-challenge	
-- I also used this documentation to help write the gauge chart. https://plotly.com/javascript/gauge-charts/
-- I also used this to help find color scales for the bubble chart. https://plotly.com/javascript/colorscales/
->>>>>>> 0ecbd035b1b91610bdbf8f69b75620bd9117e126
 
 ## Background
 In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/) to an external site., which catalogs the microbes that colonize human navels.
