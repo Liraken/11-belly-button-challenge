@@ -123,8 +123,4 @@ Hints
 
 * Metadata updates when a new sample is selected (10 points)
 
-<<<<<<< HEAD
 * App Successfully Deployed to Github Pages (10 points)
-=======
-App Successfully Deployed to Github Pages (10 points)
->>>>>>> 0ecbd035b1b91610bdbf8f69b75620bd9117e126
